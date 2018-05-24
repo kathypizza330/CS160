@@ -1,0 +1,56 @@
+1.
+Modus Tollens:
+p  q ¬q  p→q ¬p
+0  0  1   1   1
+0  1  0   1   1
+1  0  1   0   0
+1  1  0   1   0
+The fourth row prove the Modus Tollens.
+
+Implication Law:
+p  q ¬p p→q ¬pVq
+0  0  1  1    1
+0  1  1  1    1
+1  0  0  0    0
+1  1  0  1    1
+The last two rows prove the Implication Law.
+
+2.
+1) p ↔ r          Given
+2) (p→r)^(r→p)    Biconditional Laws(1)
+3) (¬r→¬p)^(¬rVp) Implication Laws(2)
+4) ¬r             Given    
+5) ¬p^(¬rVp)      Modus Ponens(3, 4)
+6) (¬p^¬r)V(¬p^p) Distributive Laws (5)    
+7) ¬pV(¬p^p)      Simplification(6)   
+8) ¬pVF           Negation Laws(7) 
+9) ¬p             Identity Laws(8)
+10)p⊕q            Given
+11)q              Disjunctive Syllogism(9, 10)
+
+3.
+1) r              Given
+2) r→p            Given            
+3) p              Modus Ponens(1, 2)
+4) p→q            Given
+5) q              Modus Ponens(3, 4)
+6) q^p            Conjunction(3, 5)
+
+4.
+1) p^q            Given          
+2) q^p            Commutative Laws(1)
+3) q              Simplification(2)
+4) qVr            Addition(3)
+
+5.a,c,e
+
+   
+
+
+
+
+
+
+
+
+   

@@ -1,0 +1,10 @@
+Step                                 Reason
+1.Even(xy)→Even(x)vEven(y)           Hypothesis
+2.¬(Even(x)vEven(y)→¬(Even(xy))      Contrapositive(1)
+3.¬(Even(x))^¬(Even(y))→¬(Even(xy))  DeMorgan's Rule(2)
+4.Odd(x)^Odd(y)→Odd(xy)              (3)
+5.x=2k+1, y=2j+1                     Odd Definition
+6.xy = (2k+1)*(2j+1)=(4kj+2k+2j+1)   Algebra
+7.Odd(2(2kj+k+j)+1)=true             Odd Definition
+8.Odd(xy)=true                       (7)Contrapositive proved
+9.Even(xy)→Even(x)vEven(y)           Hypothesis proved

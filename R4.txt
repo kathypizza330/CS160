@@ -1,0 +1,53 @@
+CS160
+Lingyang Zhu
+9/9/15
+R4
+
+2. Problems Involving Sets
+
+#1
+a.the set of students who are majoring in Computer Science in this class is a subset of the set of students in this class
+b.tthe set of land mammals is a subset of the set of mammals
+c.neither is a subset of the other
+
+#2
+a.9
+b.65
+c.9
+d.6
+e.3
+f.12
+g.2
+
+#3
+a.{-1,1}
+b.{1,2,3,4,5,6}
+c.{0,1,4,9,16,25,36,49,64,81}
+d.{}
+
+#4
+a.|A|=4,|B|=7
+b.{3,4,5,6,7,8,9,10,11}
+c.{4,6}
+d.{0,1,2,3,5,7,9,11,12,13,14,15,......}
+e.{8,10}
+f.{3,5,7,9,11}
+g.No
+h.
+
+3. Problems Involving Functions
+
+#1 One-to-one, strictly increasing
+#2 Not one-to-one, increasing
+#3 One-to-one, strictly increasing
+#4 One-to-one, strictly increasing
+#5 Not one-to-one, neither increasing nor decreasing
+#6 Not one-to-one, neither increasing nor decreasing
+#7 Not one-to-one, neither increasing nor decreasing
+#8 Not one-to-one, neither increasing nor decreasing
+
+
+
+
+
+
